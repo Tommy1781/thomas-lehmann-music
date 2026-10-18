@@ -1,0 +1,100 @@
+[
+  {
+    "title": "The Love Time Never Took Away",
+    "audio": "music/01-preview.mp3",
+    "cover": "covers/01.webp",
+    "previewStartSec": 163.0,
+    "originalDurationSec": 227.1
+  },
+  {
+    "title": "250 Years of America",
+    "audio": "music/02-preview.mp3",
+    "cover": "covers/02.webp",
+    "previewStartSec": 177.0,
+    "originalDurationSec": 238.4
+  },
+  {
+    "title": "A Life Revisited",
+    "audio": "music/03-preview.mp3",
+    "cover": "covers/03.webp",
+    "previewStartSec": 123.0,
+    "originalDurationSec": 256.0
+  },
+  {
+    "title": "The Girl and the Light",
+    "audio": "music/04-preview.mp3",
+    "cover": "covers/04.webp",
+    "previewStartSec": 150.5,
+    "originalDurationSec": 264.9
+  },
+  {
+    "title": "When Time Stands Still",
+    "audio": "music/05-preview.mp3",
+    "cover": "covers/05.webp",
+    "previewStartSec": 87.0,
+    "originalDurationSec": 231.7
+  },
+  {
+    "title": "Traces of Light",
+    "audio": "music/06-preview.mp3",
+    "cover": "covers/06.webp",
+    "previewStartSec": 165.0,
+    "originalDurationSec": 259.8
+  },
+  {
+    "title": "After the Storm",
+    "audio": "music/07-preview.mp3",
+    "cover": "covers/07.webp",
+    "previewStartSec": 67.5,
+    "originalDurationSec": 228.0
+  },
+  {
+    "title": "The Last Light",
+    "audio": "music/08-preview.mp3",
+    "cover": "covers/08.webp",
+    "previewStartSec": 168.0,
+    "originalDurationSec": 253.4
+  },
+  {
+    "title": "Sometimes I Still See You",
+    "audio": "music/09-preview.mp3",
+    "cover": "covers/09.webp",
+    "previewStartSec": 79.5,
+    "originalDurationSec": 198.2
+  },
+  {
+    "title": "Whispers of the Wild",
+    "audio": "music/10-preview.mp3",
+    "cover": "covers/10.webp",
+    "previewStartSec": 111.5,
+    "originalDurationSec": 237.6
+  },
+  {
+    "title": "Beyond the Silence",
+    "audio": "music/11-preview.mp3",
+    "cover": "covers/11.webp",
+    "previewStartSec": 94.0,
+    "originalDurationSec": 174.1
+  },
+  {
+    "title": "Where the River meets the Sea",
+    "audio": "music/12-preview.mp3",
+    "cover": "covers/12.webp",
+    "previewStartSec": 130.0,
+    "originalDurationSec": 199.7
+  },
+  {
+    "title": "Echos of Yesterday",
+    "audio": "music/13-preview.mp3",
+    "cover": "covers/13.webp",
+    "previewStartSec": 172.0,
+    "originalDurationSec": 251.5
+  },
+  {
+    "title": "Symphony of the Heart",
+    "audio": "music/17-preview.mp3",
+    "cover": "covers/17.webp",
+    "previewStartSec": 119.5,
+    "originalDurationSec": 264.7
+  }
+]
