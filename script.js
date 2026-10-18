@@ -151,7 +151,7 @@ document.querySelectorAll('.video-launch').forEach((button)=>{
 // CONTACT FORM CONFIGURATION
 // Formspree endpoint for Thomas Lehmann Music Contact.
 // Messages are handled by Formspree; confirm recipient email in Formspree settings.
-const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xgaoq1wp';
+const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xgaoqlwp';
 const contactForm=document.querySelector('#contact-form');
 const contactStatus=document.querySelector('#contact-status');
 const contactSubmit=document.querySelector('#contact-submit');
