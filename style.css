@@ -175,3 +175,13 @@
 .contact-honeypot {position:absolute!important;left:-10000px!important;width:1px!important;height:1px!important;overflow:hidden!important}
 @media(max-width:900px) {.contact-layout{grid-template-columns:1fr;gap:24px}.contact-intro{padding-top:0}.contact-intro p:not(.eyebrow){max-width:680px}.contact-decoration{margin-top:22px}}
 @media(max-width:620px) {.about-story img{height:auto;max-height:450px}.contact-section{padding-top:62px;padding-bottom:70px}.form-two-col{grid-template-columns:1fr;gap:0}.contact-form{padding:21px 17px}.contact-decoration{font-size:.6rem;letter-spacing:.09em}}
+/* Neues Startbild – Version 16 */
+.hero {
+  background-image: linear-gradient(90deg, #101c1bef 0%, #12221ed9 34%, #13221d25 72%), url('assets/hero-thomas-v16.webp');
+}
+
+@media (max-width: 620px) {
+  .hero {
+    background-image: linear-gradient(0deg, #11221ffb 2%, #14251ee8 40%, #15241f10 100%), url('assets/hero-thomas-v16.webp');
+  }
+}
